@@ -5,3 +5,4 @@ jupyterlab
 kaggle
 pandas
 seaborn
+ace_tools
