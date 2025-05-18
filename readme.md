@@ -14,4 +14,4 @@ deactivate
 2. Classification
 3. Clusterization
 4. Perceptron and MLP 
-5. Computational Vision
+5. Computational Vision OR CNN
